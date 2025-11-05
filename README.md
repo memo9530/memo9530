@@ -16,7 +16,7 @@ Soy estudiante y desarrollador en crecimiento, enfocado en el aprendizaje contin
 
 ---
 
-### 🛠️ Tecnologías que uso o estoy aprendiendo
+### 🛠️ Tecnologías que uso y estoy aprendiendo
 
 **Lenguajes**
 - TypeScript
