@@ -29,7 +29,8 @@ Soy estudiante y desarrollador en crecimiento, enfocado en el aprendizaje contin
 
 **Bases de Datos**
 - SQL Server 
-- SQLite 
+- SQLite
+- Strapi
 
 ---
 
